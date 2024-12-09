@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "candidates.app.security.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'candidates.app.security.jwtSecret'"
+  },
+  {
+    "name": "candidates.app.security.jwtExpirationTime",
+    "type": "java.lang.String",
+    "description": "A description for 'candidates.app.security.jwtExpirationTime'"
+  },
+  {
+    "name": "candidates.app.controller.path.whitelist",
+    "type": "java.lang.String",
+    "description": "A description for 'candidates.app.controller.path.whitelist'"
+  },
+  {
+    "name": "candidates.app.package.entities",
+    "type": "java.lang.String",
+    "description": "A description for 'candidates.app.package.entities'"
+  },
+  {
+    "name": "candidates.app.security.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'candidates.app.security.jwtSecret'"
+  },
+  {
+    "name": "candidates.app.security.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'candidates.app.security.jwtSecret'"
+  }
+]}
